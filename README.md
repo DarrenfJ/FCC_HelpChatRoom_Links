@@ -13,4 +13,26 @@ raw link: https://youtu.be/ITu5kyiVtDw
 
 raw link: https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Code-Formatting
 
+###Portfolio Links
+
+smooth scrolling and achoring on same page
+
+[using anchor to move around a page](http://help.typepad.com/anchor-tags.html)
+
+raw link: http://help.typepad.com/anchor-tags.html
+
+[smooth scrolling](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
+
+raw link: https://css-tricks.com/snippets/jquery/smooth-scrolling/
+
+[fancy scroll sites](https://css-tricks.com/fancy-scrolling-sites/)
+
+raw link: https://css-tricks.com/fancy-scrolling-sites/
+
+
+
+
+
+
+
 ###Other links
