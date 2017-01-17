@@ -13,6 +13,10 @@ raw link: https://youtu.be/ITu5kyiVtDw
 
 raw link: https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Code-Formatting
 
+[GitHub on code formatting](https://help.github.com/articles/creating-and-highlighting-code-blocks/)
+
+raw link: https://help.github.com/articles/creating-and-highlighting-code-blocks/
+
 ###Portfolio Links
 
 smooth scrolling and achoring on same page
